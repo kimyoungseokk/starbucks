@@ -110,6 +110,16 @@ body {
     background-color: #F6F5F0;
     border-bottom: 1px solid #c8c8c8;
   }
+@media(max-width:600px){
+ header{
+     width:100%;
+     position:fixed;
+     top:0;
+     height:250px;
+     background-color: #F6F5F0;
+     border-bottom: 1px solid #c8c8c8;
+    }
+}
   header > .inner {
     height: 120px;
   }
