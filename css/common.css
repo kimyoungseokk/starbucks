@@ -115,7 +115,7 @@ body {
      width:100%;
      position:fixed;
      top:0;
-     height:200px;
+     height:150px;
      background-color: #F6F5F0;
      border-bottom: 1px solid #c8c8c8;
     }
@@ -133,8 +133,8 @@ body {
   }
 @media(max-width:600px){
  header .logo{
-     width:100%;
-     position:fixed;
+     height: 120px;
+     position:absolute;
      margin:0 auto;
     }
 }
