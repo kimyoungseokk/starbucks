@@ -20,12 +20,6 @@ body {
     margin: 0 auto;
     position: relative;
   }
-  @media(max-width:600px){
-  .inner{
-    width: 400px;
-    position: relative;
-    }
-  }
   /*BUTTON*/
   .btn {
     width: 130px;
