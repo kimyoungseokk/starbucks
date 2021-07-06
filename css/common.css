@@ -115,7 +115,7 @@ body {
      width:100%;
      position:fixed;
      top:0;
-     height:250px;
+     height:200px;
      background-color: #F6F5F0;
      border-bottom: 1px solid #c8c8c8;
     }
@@ -131,7 +131,13 @@ body {
     left: 0;
     margin: auto;
   }
-
+@media(max-width:600px){
+ header .logo{
+     width:100%;
+     position:fixed;
+     margin:0 auto;
+    }
+}
   header .sub-menu {
     position: absolute;
     top: 10px;
